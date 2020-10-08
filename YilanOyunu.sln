@@ -5,10 +5,6 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YilanOyunu", "YilanOyunu\YilanOyunu.csproj", "{EDBD2D1F-728A-4A99-8F92-E53C96C1705C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yilanOyunuKendimiz", "yilanOyunuKendimiz\yilanOyunuKendimiz.csproj", "{301B5E19-A0FB-45F1-A578-DDC86CCC71E9}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yilanTestKodları", "yilanTestKodları\yilanTestKodları.csproj", "{F07A0731-62AC-48FC-A460-2848ECBE3F18}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,14 +15,6 @@ Global
 		{EDBD2D1F-728A-4A99-8F92-E53C96C1705C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EDBD2D1F-728A-4A99-8F92-E53C96C1705C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EDBD2D1F-728A-4A99-8F92-E53C96C1705C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{301B5E19-A0FB-45F1-A578-DDC86CCC71E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{301B5E19-A0FB-45F1-A578-DDC86CCC71E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{301B5E19-A0FB-45F1-A578-DDC86CCC71E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{301B5E19-A0FB-45F1-A578-DDC86CCC71E9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F07A0731-62AC-48FC-A460-2848ECBE3F18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F07A0731-62AC-48FC-A460-2848ECBE3F18}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F07A0731-62AC-48FC-A460-2848ECBE3F18}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F07A0731-62AC-48FC-A460-2848ECBE3F18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
